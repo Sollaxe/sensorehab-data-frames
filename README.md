@@ -1,2 +1,2 @@
-# imu-gesture-recognition-notebook
-Upper extremity gesture amplitude recognition using wearable IMU sensors data  
+# SensoRehab data frames notebook
+Before using you should install python and jupyter notebook
